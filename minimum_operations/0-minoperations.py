@@ -1,6 +1,9 @@
 #!/usr/bin/python3
+"""minimum operations for copy and paste"""
+
 
 def minOperations(n):
+    """char is length of characters"""
     char = 1
     count = 0
     while char != n:
